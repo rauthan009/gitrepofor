@@ -1,0 +1,24 @@
+{
+  "name": "shopcart9958",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rauthan009/gitrepofor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rauthan009/gitrepofor/issues"
+  },
+  "homepage": "https://github.com/rauthan009/gitrepofor#readme"
+}
